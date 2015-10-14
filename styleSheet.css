@@ -1,0 +1,42 @@
+#header {
+    background-image: url("http://www.tanktronic.com/wp-content/uploads/2014/07/2013.10.23-mrconservative-5267c49c837c6.jpg");
+    background-size: auto;
+    background-color: darkblue;
+    color:white;
+    text-align:center;
+}
+
+#nav {
+    line-height:30px;
+    background-color:white;
+    height:100px;
+    width:100px;
+    color:black;
+    float:left;
+    padding:5px;
+}
+#section {
+    background-image: url("http://steveclarksondreammaker.com/sc_files/wp-content/themes/steveclarkson/images/SC-background-1440.jpg");
+    background-size: 100%;
+    width:90%;
+    float:left;
+    padding:10px;
+    color: white;
+}
+#footer {
+    background-image: url("http://www.tanktronic.com/wp-content/uploads/2014/07/2013.10.23-mrconservative-5267c49c837c6.jpg");
+    background-size: auto;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+/* unvisited link */
+a:link {
+    color: White;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
